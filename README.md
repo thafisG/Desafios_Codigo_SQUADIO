@@ -1,4 +1,4 @@
-# Desafios de Codigo SQUADIO
+# Desafios de Codigo SQUADIO - iniciante 
 ## desafio 01
 Desafio:
 Você é um intrépido explorador em uma jornada por uma terra desconhecida repleta de desafios emocionantes. Ao se deparar com uma floresta misteriosa, você percebe que a única maneira de atravessá-la é desvendando seus caminhos por meio de um código em Python. Prepare-se para a "Aventura do Explorador"!
